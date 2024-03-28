@@ -1,5 +1,4 @@
 电视直播,#genre#//IPV6(fanmingming)
-合信佳,rtmp://123.118.229.113:1935/live/livestream
 CCTV-1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-2,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV-3,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
@@ -104,7 +103,7 @@ CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-浙江卫视 3M1080,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+浙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 
 CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -114,8 +113,5 @@ CCTV-6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV-8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV-9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
-CCTV-6,http://live.lcjly.cn/douyin/69416429589
-江苏卫视,http://live.lcjly.cn/douyin/417926571322
-大湾区卫视,http://live.lcjly.cn/douyin/603789803277
 CCTV-13,https://pi.0472.org/tv/fct.php?auth=2310201855
 CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
