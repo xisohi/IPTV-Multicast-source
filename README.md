@@ -19,6 +19,7 @@
 - 💻[potplayer](https://potplayer.org/)
 
 #### Android：
+- [MY-TV](https://gitee.com/lizongying/my-tv/releases)
 - [TVBOX](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
 - [VLC media player](https://www.videolan.org/vlc/download-android.html)
 
