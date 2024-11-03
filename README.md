@@ -8,7 +8,7 @@
 
 ## 注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
 
-国内无法直接食用解决方法：在地址前加上https://mirror.ghproxy.com/
+电视图标库：https://chinaiptv.pages.dev/logo/{name}.png
 
 ## 目录
 
