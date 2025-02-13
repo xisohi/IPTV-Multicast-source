@@ -72,6 +72,7 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 安徽公共高清,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 安徽国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 
+/*
 央视,#genre#
 CCTV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 CCTV-2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
@@ -92,6 +93,7 @@ CCTV-16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/H
 CCTV-17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 CGTN,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
 CGTN新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
+*/
 卫视,#genre#
 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hunanstv/1.m3u8
