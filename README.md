@@ -71,7 +71,7 @@
 |  新疆   | [🌐暂无](https://chinaiptv.pages.dev/xinjiang/unicom.txt) | [🌐暂无](https://chinaiptv.pages.dev/xinjiang/mobile.txt) |   [🌐订阅链接](https://chinaiptv.pages.dev/xinjiang/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/xingjiang/xinjiang.txt) | 🌕日常更新 | 2020.02.27 |
 |  西藏   | [🌐暂无](https://chinaiptv.pages.dev/xizang/unicom.txt) | [🌐暂无](https://chinaiptv.pages.dev/xizang/mobile.txt) |    [🌐暂无](https://chinaiptv.pages.dev/xizang/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/xizangxizang.txt) | 🌕日常更新 | 2020.02.27 |
 |  云南   | [🌐暂无](https://chinaiptv.pages.dev/yunnan/unicom.txt) | [🌐订阅链接](https://chinaiptv.pages.dev/yunnan/mobile.txt) |    [🌐订阅链接](https://chinaiptv.pages.dev/yunnan/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/yunnan/yunnan.txt) | 🌕日常更新 | 2024.02.19 |
-|  浙江   | [🌐暂无](https://chinaiptv.pages.dev/zhejiang/unicom.txt) | [🌐暂无](https://chinaiptv.pages.dev/zhejiang/mobile.txt) |   [🌐订阅链接](https://chinaiptv.pages.dev/zhejiang/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/zhejiang/zhejiang.txt) | 🌕日常更新 | 2020.02.27 |
+|  浙江   | [🌐订阅链接](https://chinaiptv.pages.dev/zhejiang/unicom.txt) | [🌐暂无](https://chinaiptv.pages.dev/zhejiang/mobile.txt) |   [🌐订阅链接](https://chinaiptv.pages.dev/zhejiang/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/zhejiang/zhejiang.txt) | 🌕日常更新 | 2020.02.27 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
