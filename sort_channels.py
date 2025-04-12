@@ -3,8 +3,13 @@ import re
 
 # 获取原始内容
 url = "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"
-response = requests.get(url)
-content = response.text
+try:
+    response = requests.get(url)
+    response.raise_for_status()  # 检查请求是否成功
+    content = response.text
+except requests.exceptions.RequestException as e:
+    print(f"请求失败: {e}")
+    content = ""
 
 # 定义分类
 categories = {
@@ -24,23 +29,26 @@ categories = {
 }
 
 # 解析内容
-lines = content.splitlines()
-sorted_content = []
+if content:
+    lines = content.splitlines()
+    sorted_content = []
 
-for category, channels in categories.items():
-    sorted_content.append(f"{category},#genre#")
-    for channel in channels:
-        for line in lines:
-            if re.match(f"^{channel},", line):
-                sorted_content.append(line)
-                lines.remove(line)
-                break
-    sorted_content.append("")  # 添加空行分隔
+    for category, channels in categories.items():
+        sorted_content.append(f"{category},#genre#")
+        for channel in channels:
+            for line in lines:
+                if re.match(f"^{channel},", line):
+                    sorted_content.append(line)
+                    lines.remove(line)
+                    break
+        sorted_content.append("")  # 添加空行分隔
 
-# 将剩余的内容添加到“其它”分类
-sorted_content.append("其它,#genre#")
-sorted_content.extend(lines)
+    # 将剩余的内容添加到“其它”分类
+    sorted_content.append("其它,#genre#")
+    sorted_content.extend(lines)
 
-# 保存到文件
-with open("sorted_channels.m3u", "w") as f:
-    f.write("\n".join(sorted_content))
+    # 保存到文件
+    with open("sorted_channels.m3u", "w") as f:
+        f.write("\n".join(sorted_content))
+else:
+    print("未获取到内容，无法进行排序。")
