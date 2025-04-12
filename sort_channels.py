@@ -48,7 +48,7 @@ if content:
     sorted_content.extend(lines)
 
     # 保存到文件
-    with open("sorted_channels.m3u", "w") as f:
+    with open("fanmingming_channels.m3u", "w") as f:
         f.write("\n".join(sorted_content))
 else:
     print("未获取到内容，无法进行排序。")

@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add sorted_channels.m3u
+          git add fanmingming_channels.m3u
           git commit -m "Update sorted channels" || echo "No changes to commit"
           git push
