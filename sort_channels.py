@@ -33,19 +33,22 @@ if content:
     lines = content.splitlines()
     sorted_content = []
 
+    # 筛选掉含有 #genre# 的行
+    filtered_lines = [line for line in lines if "#genre#" not in line]
+
     for category, channels in categories.items():
         sorted_content.append(f"{category},#genre#")
         for channel in channels:
-            for line in lines:
+            for line in filtered_lines:
                 if re.match(f"^{channel},", line):
                     sorted_content.append(line)
-                    lines.remove(line)
+                    filtered_lines.remove(line)
                     break
         sorted_content.append("")  # 添加空行分隔
 
     # 将剩余的内容添加到“其它”分类
     sorted_content.append("其它,#genre#")
-    sorted_content.extend(lines)
+    sorted_content.extend(filtered_lines)
 
     # 保存到文件
     with open("fanmingming_channels.m3u", "w") as f:
