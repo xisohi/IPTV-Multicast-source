@@ -33,3 +33,15 @@ jobs:
           git add live.txt
           git commit -m "Update sorted channels" || echo "No changes to commit"
           git push
+
+  clean:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete older workflow runs and artifacts
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 1
