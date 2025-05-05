@@ -41,10 +41,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 
 其它,#genre#
-
-将文件内容中的频道按照“央视,#genre#
-
-其它,#genre#
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 
 北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
