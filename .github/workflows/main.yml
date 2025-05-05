@@ -35,7 +35,7 @@ jobs:
           git push
 
   clean:
-    needs: build
+    needs: sort_channels
     runs-on: ubuntu-latest
     steps:
       - name: Delete older workflow runs and artifacts
