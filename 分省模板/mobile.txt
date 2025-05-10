@@ -25,6 +25,7 @@ CGTN西语,
 CGTN法语,
 CGTN俄语,
 CGTN阿语,
+
 卫视,#genre#
 安徽卫视,
 北京卫视,
@@ -64,6 +65,7 @@ CGTN阿语,
 延边卫视,
 云南卫视,
 浙江卫视,
+
 其它,#genre#
 CETV1,
 CETV2,
