@@ -1,4 +1,4 @@
-移动,#genre#
+央视,#genre#
 CCTV-1高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 CCTV-3高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
 CCTV-4高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
@@ -10,6 +10,7 @@ CCTV-8高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
 CCTV-10高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
 CCTV-11高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
 CCTV-13高清，http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+卫视,#genre#
 北京卫视高清，http://223.110.241.204:6610/gitv/live1/G_BEIJING-HQ/G_BEIJING-HQ/
 广东卫视高清，http://223.110.241.204:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/
 黑龙江卫视高清，http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/
