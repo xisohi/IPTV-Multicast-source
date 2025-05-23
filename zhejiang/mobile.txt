@@ -71,11 +71,6 @@ CETV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236243/index.
 CETV2,
 CETV3,
 CETV4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/index.m3u8?fmt=ts2hls
-
-
-
-
-
 CCTV-高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
 CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
 CCTV-8K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
