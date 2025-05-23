@@ -1,0 +1,393 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV抓包数据解析工具 v3.1</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #4a90e2;
+            --secondary-color: #50e3c2;
+            --background-color: #f5f7fa;
+            --text-color: #333;
+            --border-radius: 8px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 30px;
+            font-size: 2.5rem;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .input-group input[type="file"],
+        .input-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: var(--border-radius);
+            font-size: 16px;
+        }
+
+        .input-group textarea {
+            min-height: 150px;
+            resize: vertical;
+        }
+
+        .radio-group {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .radio-group label {
+            margin-right: 20px;
+            cursor: pointer;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: #fff;
+            padding: 12px 24px;
+            border: none;
+            border-radius: var(--border-radius);
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #3a7bd5;
+        }
+
+        .btn-container {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .output-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+        }
+
+        .output-box {
+            width: 48%;
+            background-color: #f1f3f5;
+            border-radius: var(--border-radius);
+            padding: 15px;
+        }
+
+        .output-box h3 {
+            margin-bottom: 10px;
+            color: var(--primary-color);
+        }
+
+        .output-content {
+            white-space: pre-wrap;
+            word-break: break-all;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+
+        .alert {
+            background-color: #f8d7da;
+            color: #721c24;
+            padding: 10px;
+            border-radius: var(--border-radius);
+            margin-top: 20px;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .alert.show {
+            opacity: 1;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+
+            .output-container {
+                flex-direction: column;
+            }
+
+            .output-box {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .loading i {
+            font-size: 24px;
+            color: var(--primary-color);
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+<div class="container fade-in">
+    <h1><i class="fas fa-network-wired"></i> IPTV抓包数据解析工具 v3.1</h1>
+
+    <div class="input-group">
+        <label for="fileInput"><i class="fas fa-file-upload"></i> 上传文件</label>
+        <input type="file" id="fileInput" accept=".jsp" onchange="handleFileUpload()">
+    </div>
+
+    <!-- 提取地址按钮保持位置 -->
+    <div class="btn-container">
+        <button class="btn" onclick="extractAddresses()">
+            <i class="fas fa-magic"></i> 提取地址
+        </button>
+    </div>
+
+    <!-- 输入数据区域 -->
+    <div class="input-group">
+        <label for="inputText"><i class="fas fa-paste"></i> 输入数据</label>
+        <textarea id="inputText" placeholder="请将抓包后的数据粘贴到这里，或通过上传文件自动提取"></textarea>
+    </div>
+
+    <!-- 将下载按钮移动到这里 -->
+    <div class="btn-container">
+        <button class="btn" onclick="downloadMulticastAddresses()">
+            <i class="fas fa-download"></i> 下载组播地址
+        </button>
+        <button class="btn" onclick="downloadUnicastAddresses()">
+            <i class="fas fa-download"></i> 下载单播地址
+        </button>
+    </div>
+
+    <div class="radio-group">
+        <label>
+            <input type="radio" name="saveFormat" value="txt" checked>
+            <i class="fas fa-file-alt"></i> .txt
+        </label>
+        <label>
+            <input type="radio" name="saveFormat" value="m3u">
+            <i class="fas fa-music"></i> .m3u
+        </label>
+    </div>
+
+    <div class="loading">
+        <i class="fas fa-spinner"></i> 正在处理...
+    </div>
+
+    <div class="output-container">
+        <div class="output-box">
+            <h3><i class="fas fa-broadcast-tower"></i> 组播地址结果</h3>
+            <pre id="multicastOutputText" class="output-content"></pre>
+        </div>
+        <div class="output-box">
+            <h3><i class="fas fa-satellite-dish"></i> 单播地址结果</h3>
+            <pre id="unicastOutputText" class="output-content"></pre>
+        </div>
+    </div>
+
+    <div class="alert" id="alertBox"></div>
+</div>
+
+
+</div>
+
+
+<script>
+    let multicastAddresses = '';
+    let unicastAddresses = '';
+
+    function extractAddresses() {
+        showLoading();
+        setTimeout(() => {
+            extractMulticastAddresses();
+            extractUnicastAddresses();
+            hideLoading();
+        }, 500);
+    }
+
+    function extractMulticastAddresses() {
+        var inputText = document.getElementById('inputText').value;
+        var regex = /ChannelName="([^"]*)".*?(igmp:\/\/)(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d+)/g;
+        var matches = new Set();
+        var match;
+
+        while ((match = regex.exec(inputText)) !== null) {
+            var channelName = match[1];
+            var multicastAddress = match[2] + match[3] + ':' + match[4];
+            var result = channelName + ',' + multicastAddress.replace('igmp://', 'rtp://');
+            matches.add(result);
+        }
+
+        multicastAddresses = Array.from(matches).join('\n');
+        document.getElementById('multicastOutputText').textContent = multicastAddresses;
+
+        if (multicastAddresses.length === 0) {
+            showAlert('没有提取到组播地址！请检查抓包数据。');
+        }
+    }
+
+    function extractUnicastAddresses() {
+        var inputText = document.getElementById('inputText').value;
+        var regex = /ChannelName="([^"]*)".*?(rtsp:\/\/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\/.*?)"/g;
+        var matches = new Set();
+        var match;
+
+        while ((match = regex.exec(inputText)) !== null) {
+            var channelName = match[1];
+            var unicastAddress = match[2].split('.smil')[0] + '.smil';
+            var result = channelName + ',' + unicastAddress;
+            matches.add(result);
+        }
+
+        unicastAddresses = Array.from(matches).join('\n');
+        document.getElementById('unicastOutputText').textContent = unicastAddresses;
+
+        if (unicastAddresses.length === 0) {
+            showAlert('没有提取到单播地址！请检查抓包数据。');
+        }
+    }
+
+    async function saveAddresses(content, type) {
+        var saveFormat = document.querySelector('input[name="saveFormat"]:checked').value;
+        var filename = `提取${type}结果.${saveFormat}`;
+        var blob;
+
+        if (saveFormat === 'txt') {
+            blob = new Blob([content], {type: 'text/plain'});
+        } else if (saveFormat === 'm3u') {
+            var m3uContent = '#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"\n';
+            for (const address of content.split('\n')) {
+                const [channelName, url] = address.split(',');
+                const tvgId = channelName.toUpperCase().replace(/[^A-Z0-9]/g, '');
+                const logoUrl = `https://epg.v1.mk/logo/${encodeURIComponent(channelName)}.png`;
+                const groupTitle = type === '组播' ? "IPTV" : "OTT";
+                m3uContent += `#EXTINF:-1,tvg-id="${tvgId}" tvg-name="${channelName}" tvg-logo="${logoUrl}" group-title="${groupTitle}",${channelName}\n`;
+                m3uContent += `${url}\n`;
+            }
+            blob = new Blob([m3uContent], {type: 'text/plain'});
+        }
+
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = filename;
+        a.style.display = 'none';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    }
+
+    async function downloadMulticastAddresses() {
+        if (multicastAddresses) {
+            showLoading();
+            await saveAddresses(multicastAddresses, '组播');
+            hideLoading();
+        } else {
+            showAlert('请先提取组播地址。');
+        }
+    }
+
+    async function downloadUnicastAddresses() {
+        if (unicastAddresses) {
+            showLoading();
+            await saveAddresses(unicastAddresses, '单播');
+            hideLoading();
+        } else {
+            showAlert('请先提取单播地址。');
+        }
+    }
+
+    function handleFileUpload() {
+        var fileInput = document.getElementById('fileInput');
+        var file = fileInput.files[0];
+
+        if (file) {
+            showLoading();
+            var reader = new FileReader();
+            reader.onload = function(e) {
+                var content = e.target.result;
+                document.getElementById('inputText').value = content;
+                extractAddresses();
+                hideLoading();
+            };
+            reader.readAsText(file);
+        } else {
+            showAlert('请选择一个.jsp文件！');
+        }
+    }
+
+    function showAlert(message) {
+        var alertBox = document.getElementById('alertBox');
+        alertBox.textContent = message;
+        alertBox.classList.add('show');
+        setTimeout(() => {
+            alertBox.classList.remove('show');
+        }, 3000);
+    }
+
+    function showLoading() {
+        document.querySelector('.loading').style.display = 'block';
+    }
+
+    function hideLoading() {
+        document.querySelector('.loading').style.display = 'none';
+    }
+</script>
+</body>
+</html>
