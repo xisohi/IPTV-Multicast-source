@@ -14,7 +14,7 @@
 
 ### IPTV抓包数据解析工具
 
-####  https://chinaiptv.pages.dev/README.html
+####  https://chinaiptv.pages.dev/zbjx.html
 
 ### 食用软件
 
