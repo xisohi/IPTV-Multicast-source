@@ -66,5 +66,4 @@ CGTN阿语,
 其它,#genre#
 CETV1,
 CETV2,
-CETV3,
 CETV4,
