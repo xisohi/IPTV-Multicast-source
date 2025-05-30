@@ -56,10 +56,10 @@
   <tr>
         <td>安徽</td>
         <td><a href="https://chinaiptv.pages.dev/anhui/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/anhui/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/anhui/mobile1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/anhui/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/telecom1.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/anhui/telecom1.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/anhui/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
