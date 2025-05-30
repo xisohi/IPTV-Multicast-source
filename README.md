@@ -79,6 +79,47 @@
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
+# 项目名称
+
+这是一个示例项目，用于展示如何在 `README.md` 文件中使用 HTML 创建表格并合并单元格。
+
+## 表格示例
+
+<table>
+  <thead>
+    <tr>
+      <th>地区</th>
+      <th>单播链接</th>
+      <th>组播链接</th>
+      <th>更新时间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>安徽</td>
+      <td><a href="https://chinaiptv.pages.dev/anhui/unicom.txt">单播</a></td>
+      <td><a href="https://chinaiptv.pages.dev/anhui/telecom.txt">组播</a></td>
+      <td>2020.02.27</td>
+    </tr>
+    <tr>
+      <td>北京</td>
+      <td><a href="https://chinaiptv.pages.dev/beijing/unicom.txt">单播</a></td>
+      <td><a href="https://chinaiptv.pages.dev/beijing/telecom.txt">组播</a></td>
+      <td>2020.02.27</td>
+    </tr>
+    <tr>
+      <td rowspan="2">重庆</td>
+      <td><a href="https://chinaiptv.pages.dev/chongqing/unicom.txt">单播</a></td>
+      <td><a href="https://chinaiptv.pages.dev/chongqing/telecom.txt">组播</a></td>
+      <td>2024.03.29</td>
+    </tr>
+    <tr>
+      <td colspan="2">合并单元格示例</td>
+      <td>2024.03.29</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 免责声明
 1. 此数据仅用于学习研究，不保证其合法性、准确性、有效性，请根据情况自行判断，本人对此不承担任何保证责任。
 2. 由于此数据仅用于学习研究，您必须在下载后 24 小时内将所有内容从您的计算机或手机或任何存储设备中完全删除，若违反规定引起任何事件本人对此均不负责。
