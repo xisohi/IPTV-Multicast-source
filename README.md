@@ -55,312 +55,312 @@
   <tbody>
   <tr>
         <td>安徽</td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/unicom.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/telecom1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/anhui/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/anhui/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/anhui/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/anhui/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/anhui/telecom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/anhui/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>北京</td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/beijing/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/beijing/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/beijing/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/beijing/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/beijing/telecom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/beijing/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>重庆</td>
-        <td><a href="https://chinaiptv.pages.dev/chongqing/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/chongqing/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/chongqing/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/chongqing/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/chongqing/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/chongqing/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/chongqing/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/chongqing/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/chongqing/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/chongqing/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/chongqing/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/chongqing/telecom.txt">🛰️组播</a></td>
         <td>2024.03.29</td>
     </tr>
     <tr>
         <td>福建</td>
-        <td><a href="https://chinaiptv.pages.dev/fujian/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/fujian/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/fujian/mobile1.txt">🔗单播</a></td>
-         <td><a href="https://chinaiptv.pages.dev/fujian/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/fujian/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/fujian/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/fujian/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/fujian/mobile.txt">🔗单播</a></td>
+         <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/fujian/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/telecom.txt">🛰️组播</a></td>
         <td>2024.03.29</td>
     </tr>
     <tr>
         <td>甘肃</td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/mobile1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/gansu/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/gansu/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/gansu/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/gansu/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/gansu/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/gansu/telecom.txt">🛰️组播</a></td>
         <td>2024.12.01</td>
     </tr>
     <tr>
         <td>广东</td>
-        <td><a href="https://chinaiptv.pages.dev/guangdong/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangdong/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangdong/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangdong/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangdong/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangdong/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guangdong/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangdong/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guangdong/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangdong/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guangdong/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangdong/telecom.txt">🛰️组播</a></td>
         <td>2024.02.27</td>
     </tr>
     <tr>
         <td>广西</td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guangxi/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guangxi/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guangxi/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>贵州</td>
-        <td><a href="https://chinaiptv.pages.dev/guizhou/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guizhou/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guizhou/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guizhou/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guizhou/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guizhou/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guizhou/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guizhou/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guizhou/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guizhou/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/guizhou/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guizhou/telecom.txt">🛰️组播</a></td>
         <td>2024.05.07</td>
     </tr>
     <tr>
         <td>海南</td>
-        <td><a href="https://chinaiptv.pages.dev/hainan/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hainan/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hainan/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hainan/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hainan/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hainan/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hainan/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hainan/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hainan/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hainan/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hainan/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hainan/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>河北</td>
-        <td><a href="https://chinaiptv.pages.dev/hebei/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hebei/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hebei/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hebei/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hebei/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hebei/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hebei/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hebei/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hebei/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hebei/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hebei/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hebei/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>黑龙江</td>
-        <td><a href="https://chinaiptv.pages.dev/heilongjiang/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/heilongjiang/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/heilongjiang/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/heilongjiang/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/heilongjiang/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/heilongjiang/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/heilongjiang/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/heilongjiang/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/heilongjiang/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/heilongjiang/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/heilongjiang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/heilongjiang/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>河南</td>
-        <td><a href="https://chinaiptv.pages.dev/henan/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/henan/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/henan/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/henan/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/henan/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/henan/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/henan/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/henan/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/henan/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/henan/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/henan/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/henan/telecom.txt">🛰️组播</a></td>
         <td>2020.05.02</td>
     </tr>
     <tr>
         <td>湖北</td>
-        <td><a href="https://chinaiptv.pages.dev/hubei/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hubei/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hubei/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hubei/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hubei/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hubei/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hubei/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hubei/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hubei/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hubei/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hubei/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hubei/telecom.txt">🛰️组播</a></td>
         <td>2025.05.03</td>
     </tr>
     <tr>
         <td>湖南</td>
-        <td><a href="https://chinaiptv.pages.dev/hunan/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hunan/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hunan/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hunan/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hunan/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/hunan/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hunan/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hunan/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hunan/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hunan/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/hunan/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/hunan/telecom.txt">🛰️组播</a></td>
         <td>2024.03.29</td>
     </tr>
     <tr>
         <td>江苏</td>
-        <td><a href="https://chinaiptv.pages.dev/jiangsu/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangsu/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangsu/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangsu/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangsu/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangsu/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jiangsu/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jiangsu/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jiangsu/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/telecom.txt">🛰️组播</a></td>
         <td>2024.06.27</td>
     </tr>
     <tr>
         <td>江西</td>
-        <td><a href="https://chinaiptv.pages.dev/jiangxi/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangxi/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangxi/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangxi/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangxi/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jiangxi/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jiangxi/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jiangxi/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jiangxi/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>吉林</td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/mobile1.txt">🔗暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/mobile.txt">🛰️暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jilin/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jilin/mobile.txt">🔗暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/mobile.txt">🛰️暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/jilin/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/telecom.txt">🛰️组播</a></td>
         <td>2025.03.01</td>
     </tr>
     <tr>
         <td>辽宁</td>
-        <td><a href="https://chinaiptv.pages.dev/liaoning/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/liaoning/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/liaoning/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/liaoning/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/liaoning/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/liaoning/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/liaoning/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/liaoning/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/liaoning/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/liaoning/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/liaoning/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/liaoning/telecom.txt">🛰️组播</a></td>
         <td>2024.04.02</td>
     </tr>
     <tr>
         <td>内蒙古</td>
-        <td><a href="https://chinaiptv.pages.dev/neimenggu/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/neimenggu/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/neimenggu/mobile1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/neimenggu/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/neimenggu/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/neimenggu/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/neimenggu/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/neimenggu/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/neimenggu/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/neimenggu/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/neimenggu/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/neimenggu/telecom.txt">🛰️组播</a></td>
         <td>2024.04.02</td>
     </tr>
     <tr>
         <td>宁夏</td>
-        <td><a href="https://chinaiptv.pages.dev/ningxia/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/ningxia/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/ningxia/mobile1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/ningxia/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/ningxia/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/ningxia/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/ningxia/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/ningxia/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/ningxia/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/ningxia/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/ningxia/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/ningxia/telecom.txt">🛰️组播</a></td>
         <td>2025.04.02</td>
     </tr>
     <tr>
         <td>青海</td>
-        <td><a href="https://chinaiptv.pages.dev/qinghai/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/qinghai/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/qinghai/mobile1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/qinghai/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/qinghai/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/qinghai/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/qinghai/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/qinghai/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/qinghai/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/qinghai/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/qinghai/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/qinghai/telecom.txt">🛰️组播</a></td>
         <td>2020.05.07</td>
     </tr>
     <tr>
         <td>陕西</td>
-        <td><a href="https://chinaiptv.pages.dev/shan3xi/unicom1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shan3xi/unicom.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shan3xi/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shan3xi/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shan3xi/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shan3xi/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shan3xi/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shan3xi/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shan3xi/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shan3xi/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shan3xi/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shan3xi/telecom.txt">🛰️组播</a></td>
         <td>2020.05.10</td>
     </tr>
     <tr>
         <td>山东</td>
-        <td><a href="https://chinaiptv.pages.dev/shandong/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shandong/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shandong/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shandong/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shandong/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shandong/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shandong/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shandong/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shandong/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shandong/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shandong/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shandong/telecom.txt">🛰️组播</a></td>
         <td>2020.05.07</td>
     </tr>
     <tr>
         <td>上海</td>
-        <td><a href="https://chinaiptv.pages.dev/shanghai/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanghai/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanghai/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanghai/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanghai/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanghai/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shanghai/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shanghai/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shanghai/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shanghai/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shanghai/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shanghai/telecom.txt">🛰️组播</a></td>
         <td>2025.03.27</td>
     </tr>
     <tr>
         <td>山西</td>
-        <td><a href="https://chinaiptv.pages.dev/shanxi/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanxi/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanxi/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanxi/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanxi/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/shanxi/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shanxi/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shanxi/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shanxi/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shanxi/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/shanxi/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/shanxi/telecom.txt">🛰️组播</a></td>
         <td>2023.02.27</td>
     </tr>
     <tr>
         <td>四川</td>
-        <td><a href="https://chinaiptv.pages.dev/sichuan/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/sichuan/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/sichuan/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/sichuan/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/sichuan/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/sichuan/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/sichuan/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/sichuan/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/sichuan/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/sichuan/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/sichuan/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/sichuan/telecom.txt">🛰️组播</a></td>
         <td>2024.03.29</td>
     </tr>
     <tr>
         <td>天津</td>
-        <td><a href="https://chinaiptv.pages.dev/tianjin/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/tianjin/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/tianjin/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/tianjin/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/tianjin/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/tianjin/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/tianjin/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/tianjin/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/tianjin/telecom.txt">🛰️组播</a></td>
         <td>2024.04.02</td>
     </tr>
     <tr>
         <td>新疆</td>
-        <td><a href="https://chinaiptv.pages.dev/xinjiang/unicom1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xinjiang/unicom.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xinjiang/mobile1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xinjiang/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xinjiang/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xinjiang/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xinjiang/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/xinjiang/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xinjiang/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/xinjiang/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xinjiang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/xinjiang/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>西藏</td>
-        <td><a href="https://chinaiptv.pages.dev/xizang/unicom1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xizang/unicom.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xizang/mobile1.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xizang/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xizang/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/xizang/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xizang/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/xizang/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xizang/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/xizang/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xizang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/xizang/telecom.txt">🛰️组播</a></td>
         <td>2020.05.10</td>
     </tr>
     <tr>
         <td>云南</td>
-        <td><a href="https://chinaiptv.pages.dev/yunnan/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/yunnan/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/yunnan/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/yunnan/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/yunnan/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/yunnan/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/yunnan/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/yunnan/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/yunnan/telecom.txt">🛰️组播</a></td>
         <td>2024.02.19</td>
     </tr>
     <tr>
         <td>浙江</td>
-        <td><a href="https://chinaiptv.pages.dev/zhejiang/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/zhejiang/unicom.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/zhejiang/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/zhejiang/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/zhejiang/telecom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/zhejiang/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/zhejiang/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/zhejiang/unicom.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/zhejiang/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/zhejiang/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/zhejiang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/zhejiang/telecom.txt">🛰️组播</a></td>
         <td>2025.02.27</td>
     </tr>
     </tbody>
