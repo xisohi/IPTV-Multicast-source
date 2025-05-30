@@ -43,8 +43,8 @@
 ## 🏄‍♀️源地址
 
 
-|     📦 地区      | ![image](https://github.com/user-attachments/assets/a7e898bb-5e64-48dd-b690-69a28eaed07d) | ![image](https://github.com/user-attachments/assets/e8039251-a2f9-4110-ae85-c4efb6016911) |           ![image](https://github.com/user-attachments/assets/8341f968-3ecc-4c28-b1b9-268da0800129)                    |          🔗合集                          |   🅿状态   |   🆕更新时间   |
-| :-------------: | :-------------: |:----------------------:|:------------------------:| :--------------: | :-------: |:----------:|
+|     📦 地区      | ![image](https://github.com/user-attachments/assets/a7e898bb-5e64-48dd-b690-69a28eaed07d) | ![image](https://github.com/user-attachments/assets/e8039251-a2f9-4110-ae85-c4efb6016911) |   ![image](https://github.com/user-attachments/assets/8341f968-3ecc-4c28-b1b9-268da0800129)     |   🔗合集      |   🅿状态   |   🆕更新时间   |
+| :-------------: | :-------------: |:--------------:|:----------:| :--------------: | :-------: |:----------:|
 | 安徽 | [🔗单播](https://chinaiptv.pages.dev/anhui/unicom.txt) |                   [🔗单播](https://chinaiptv.pages.dev/anhui/mobile.txt)                    |    [🛰️组播](https://chinaiptv.pages.dev/anhui/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/anhui/anhui.txt) | 🌕日常更新 | 2020.02.27 |
 |  北京   | [🛰️组播](https://chinaiptv.pages.dev/beijing/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/beijing/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/beijing/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/beijing/beijing.txt) | 🌕日常更新 | 2020.02.27 |
 |  重庆   | [🛰️组播](https://chinaiptv.pages.dev/chongqing/unicom.txt) |                [🛰️组播](https://chinaiptv.pages.dev/chongqing/mobile.txt)                 |  [🛰️组播](https://chinaiptv.pages.dev/chongqing/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/chongqing/chongqing.txt) | 🌕日常更新 | 2024.03.29 |
