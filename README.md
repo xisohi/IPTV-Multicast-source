@@ -42,44 +42,6 @@
 
 ## 🏄‍♀️源地址
 
-
-|     📦 地区      | ![image](https://github.com/user-attachments/assets/a7e898bb-5e64-48dd-b690-69a28eaed07d) | ![image](https://github.com/user-attachments/assets/e8039251-a2f9-4110-ae85-c4efb6016911) |   ![image](https://github.com/user-attachments/assets/8341f968-3ecc-4c28-b1b9-268da0800129)     |   🔗合集      |   🅿状态   |   🆕更新时间   |
-| :-------------: | :-------------: |:--------------:|:----------:| :--------------: | :-------: |:----------:|
-| 安徽 | [🔗单播](https://chinaiptv.pages.dev/anhui/unicom.txt) |                   [🔗单播](https://chinaiptv.pages.dev/anhui/mobile.txt)                    |    [🛰️组播](https://chinaiptv.pages.dev/anhui/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/anhui/anhui.txt) | 🌕日常更新 | 2020.02.27 |
-|  北京   | [🛰️组播](https://chinaiptv.pages.dev/beijing/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/beijing/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/beijing/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/beijing/beijing.txt) | 🌕日常更新 | 2020.02.27 |
-|  重庆   | [🛰️组播](https://chinaiptv.pages.dev/chongqing/unicom.txt) |                [🛰️组播](https://chinaiptv.pages.dev/chongqing/mobile.txt)                 |  [🛰️组播](https://chinaiptv.pages.dev/chongqing/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/chongqing/chongqing.txt) | 🌕日常更新 | 2024.03.29 |
-|  福建   | [🛰️组播](https://chinaiptv.pages.dev/fujian/unicom.txt) |                  [🔗单播](https://chinaiptv.pages.dev/fujian/mobile.txt)                  |    [🛰️组播](https://chinaiptv.pages.dev/fujian/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/fujian/fujian.txt) | 🌕日常更新 | 2024.03.29 |
-|  甘肃   | [🛰️组播](https://chinaiptv.pages.dev/gansu/unicom.txt) |                   [🌐暂无](https://chinaiptv.pages.dev/gansu/mobile.txt)                    |    [🛰️组播](https://chinaiptv.pages.dev/gansu/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/gansu/gansu.txt) | 🌕日常更新 | 2024.12.01 |
-|  广东   | [🛰️组播](https://chinaiptv.pages.dev/guangdong/unicom.txt) |                [🛰️组播](https://chinaiptv.pages.dev/guangdong/mobile.txt)                 |  [🛰️组播](https://chinaiptv.pages.dev/guangdong/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/guangdong/guangdong.txt) | 🌕日常更新 | 2024.02.27 |
-|  广西   | [🔗单播](https://chinaiptv.pages.dev/guangxi/unicom.txt) |                 [🔗单播](https://chinaiptv.pages.dev/guangxi/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/guangxi/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/guangxi/guangxi.txt) | 🌕日常更新 | 2025.05.27 |
-|  贵州   | [🛰️组播](https://chinaiptv.pages.dev/guizhou/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/guizhou/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/guizhou/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/guizhou/guizhou.txt) | 🌕日常更新 | 2024.05.07 |
-|  海南   | [🛰️组播](https://chinaiptv.pages.dev/hainan/unicom.txt) |                  [🛰️组播](https://chinaiptv.pages.dev/hainan/mobile.txt)                  |    [🛰️组播](https://chinaiptv.pages.dev/hainan/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/hainan/hainan.txt) | 🌕日常更新 | 2020.02.27 |
-|  河北   | [🛰️组播](https://chinaiptv.pages.dev/hebei/unicom.txt) |                  [🛰️组播](https://chinaiptv.pages.dev/hebei/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/hebei/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/hebei/hebei.txt) | 🌕日常更新 | 2020.02.27 |
-|  黑龙江   | [🛰️组播](https://chinaiptv.pages.dev/heilongjiang/unicom.txt) |               [🛰️组播](https://chinaiptv.pages.dev/heilongjiang/mobile.txt)               | [🛰️组播](https://chinaiptv.pages.dev/heilongjiang/telecom.txt) | [🌐订阅链接](https://chinaiptv.pages.dev/heilongjiang/heilongjiang.txt) | 🌕日常更新 | 2020.02.27 |
-|  河南   | [🛰️组播](https://chinaiptv.pages.dev/henan/unicom.txt) |                  [🛰️组播](https://chinaiptv.pages.dev/henan/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/henan/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/henan/henan.txt) | 🌕日常更新 | 2020.05.02 |
-|  湖北   | [🛰️组播](https://chinaiptv.pages.dev/hubei/unicom.txt) |                  [🔗单播](https://chinaiptv.pages.dev/hubei/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/hubei/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/hubei/hubei.txt) | 🌕日常更新 | 2025.05.03 |
-|  湖南   | [🛰️组播](https://chinaiptv.pages.dev/hunan/unicom.txt) |                  [🛰️组播](https://chinaiptv.pages.dev/hunan/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/hunan/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/hunan/hunan.txt) | 🌕日常更新 | 2024.03.29 |
-|  江苏   | [🔗单播](https://chinaiptv.pages.dev/jiangsu/unicom.txt) |                 [🔗单播](https://chinaiptv.pages.dev/jiangsu/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/jiangsu/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/jiangsu/jiangsu.txt) | 🌕日常更新 | 2024.06.27 |
-|  江西   | [🔗单播](https://chinaiptv.pages.dev/jiangxi/unicom.txt) |                 [🔗单播](https://chinaiptv.pages.dev/jiangxi/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/jiangxi/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/jiangxi/jiangxi.txt) | 🌕日常更新 | 2025.05.23 |
-|  吉林   | [🛰️组播](https://chinaiptv.pages.dev/jilin/unicom.txt) |                   [🌐暂无](https://chinaiptv.pages.dev/jilin/mobile.txt)                    |    [🛰️组播](https://chinaiptv.pages.dev/jilin/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/jilin) | 🌕日常更新 | 2025.03.01 |
-|  辽宁   | [🛰️组播](https://chinaiptv.pages.dev/liaoning/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/liaoning/mobile.txt)                 |    [🛰️组播](https://chinaiptv.pages.dev/liaoning/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/liaoning/liaoning.txt) | 🌕日常更新 | 2024.04.02 |
-|  内蒙古   | [🛰️组播](https://chinaiptv.pages.dev/neimenggu/unicom.txt) |                 [🌐暂无](https://chinaiptv.pages.dev/neimenggu/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/neimenggu/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/neimenggu/neimenggu.txt) | 🌕日常更新 | 2024.04.02 |
-|  宁夏   | [🛰️组播](https://chinaiptv.pages.dev/ningxia/unicom.txt) |                  [🌐暂无](https://chinaiptv.pages.dev/ningxia/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/ningxia/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/ningxia/ningxia.txt) | 🌕日常更新 | 2025.04.02 |
-|  青海   | [🛰️组播](https://chinaiptv.pages.dev/qinghai/unicom.txt) |                  [🌐暂无](https://chinaiptv.pages.dev/qinghai/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/qinghai/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/qinghai/qinghai.txt) | 🌕日常更新 | 2020.05.07 |
-|  陕西   | [🌐暂无](https://chinaiptv.pages.dev/shan3xi/unicom.txt) |                  [🔗单播](https://chinaiptv.pages.dev/shan3xi/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/shan3xi/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/xhan3xi/shan3xi.txt) | 🌕日常更新 | 2025.05.10 |
-|  山东   | [🛰️组播](https://chinaiptv.pages.dev/shandong/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/shandong/mobile.txt)                 |   [🛰️组播](https://chinaiptv.pages.dev/shandong/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/shandong/shandong.txt) | 🌕日常更新 | 2020.05.07 |
-|  上海   | [🛰️组播](https://chinaiptv.pages.dev/shanghai/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/shanghai/mobile.txt)                 |   [🛰️组播](https://chinaiptv.pages.dev/shanghai/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/shanghai/shanghai.txt) | 🌕日常更新 | 2025.03.27 |
-|  山西   | [🛰️组播](https://chinaiptv.pages.dev/shanxi/unicom.txt) |                  [🛰️组播](https://chinaiptv.pages.dev/shanxi/mobile.txt)                  |    [🛰️组播](https://chinaiptv.pages.dev/shanxi/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/shanxi/shanxi.txt) | 🌕日常更新 | 2023.02.27 |
-|  四川   | [🛰️组播](https://chinaiptv.pages.dev/sichuan/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/sichuan/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/sichuan/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/sichuan/sichuan.txt) | 🌕日常更新 | 2024.03.29 |
-|  天津   | [🛰️组播](https://chinaiptv.pages.dev/tianjin/unicom.txt) |                 [🛰️组播](https://chinaiptv.pages.dev/tianjin/mobile.txt)                  |    [🛰️组播](https://chinaiptv.pages.dev/tianjin/telecom.txt)     | [🌐订阅链接](https://chinaiptv.pages.dev/tianjin/tianjin.txt) | 🌕日常更新 | 2024.04.02 |
-|  新疆   | [🌐暂无](https://chinaiptv.pages.dev/xinjiang/unicom.txt) |                  [🌐暂无](https://chinaiptv.pages.dev/xinjiang/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/xinjiang/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/xingjiang/xinjiang.txt) | 🌕日常更新 | 2020.02.27 |
-|  西藏   | [🌐暂无](https://chinaiptv.pages.dev/xizang/unicom.txt) |                   [🌐暂无](https://chinaiptv.pages.dev/xizang/mobile.txt)                   |    [🛰️组播](https://chinaiptv.pages.dev/xizang/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/xizangxizang.txt) | 🌕日常更新 | 2020.05.10 |
-|  云南   | [🛰️组播](https://chinaiptv.pages.dev/yunnan/unicom.txt) |                  [🛰️组播](https://chinaiptv.pages.dev/yunnan/mobile.txt)                  |    [🛰️组播](https://chinaiptv.pages.dev/yunnan/telecom.txt)    | [🌐订阅链接](https://chinaiptv.pages.dev/yunnan/yunnan.txt) | 🌕日常更新 | 2024.02.19 |
-|  浙江   | [🔗单播](https://chinaiptv.pages.dev/zhejiang/unicom.txt) |                 [🌐 单播](https://chinaiptv.pages.dev/zhejiang/mobile.txt)                  |   [🛰️组播](https://chinaiptv.pages.dev/zhejiang/telecom.txt)   | [🌐订阅链接](https://chinaiptv.pages.dev/zhejiang/zhejiang.txt) | 🌕日常更新 | 2025.02.27 |
-
-<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
-
-
 <table>
   <thead>
     <tr>
@@ -93,21 +55,21 @@
   <tbody>
   <tr>
         <td>安徽</td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/anhui/unicom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/anhui/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/anhui/mobile1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/anhui/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/anhui/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/anhui/telecom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/anhui/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
         <td>北京</td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/beijing/unicom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/beijing/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/beijing/mobile1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/beijing/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/beijing/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/beijing/telecom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/beijing/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
@@ -135,7 +97,7 @@
         <td>甘肃</td>
         <td><a href="https://chinaiptv.pages.dev/gansu/unicom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/gansu/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/gansu/mobile.txt">🌐暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/gansu/mobile1.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/gansu/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/gansu/telecom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/gansu/telecom.txt">🛰️组播</a></td>
@@ -154,9 +116,9 @@
     <tr>
         <td>广西</td>
         <td><a href="https://chinaiptv.pages.dev/guangxi/unicom1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/unicom1.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/guangxi/unicom.txt">🛰️组播</a></td>
         <td><a href="https://chinaiptv.pages.dev/guangxi/mobile1.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/guangxi/mobile1.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/guangxi/mobile.txt">🛰️组播</a></td>
         <td><a href="https://chinaiptv.pages.dev/guangxi/telecom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/guangxi/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
@@ -255,7 +217,7 @@
         <td>吉林</td>
         <td><a href="https://chinaiptv.pages.dev/jilin/unicom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/jilin/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/jilin/mobile.txt">🔗暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/jilin/mobile1.txt">🔗暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/jilin/mobile.txt">🛰️暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/jilin/telecom1.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/jilin/telecom.txt">🛰️组播</a></td>
@@ -403,6 +365,8 @@
     </tr>
     </tbody>
 </table>
+
+<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 ### 免责声明
 1. 此数据仅用于学习研究，不保证其合法性、准确性、有效性，请根据情况自行判断，本人对此不承担任何保证责任。
