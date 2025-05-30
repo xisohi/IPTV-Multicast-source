@@ -88,7 +88,7 @@
         <td><a href="https://chinaiptv.pages.dev/Unicast/fujian/unicom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/unicom.txt">🛰️组播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/fujian/mobile.txt">🔗单播</a></td>
-         <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/mobile.txt">🛰️组播</a></td>
+         <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/fujian/telecom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/fujian/telecom.txt">🛰️组播</a></td>
         <td>2024.03.29</td>
@@ -116,9 +116,9 @@
     <tr>
         <td>广西</td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/guangxi/unicom.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/guangxi/mobile.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/guangxi/telecom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/guangxi/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
@@ -160,7 +160,7 @@
         <td><a href="https://chinaiptv.pages.dev/Unicast/heilongjiang/mobile.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/heilongjiang/mobile.txt">🛰️组播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/heilongjiang/telecom.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/heilongjiang/telecom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/heilongjiang/telecom.txt">🌐暂无</a></td>
         <td>2020.02.27</td>
     </tr>
     <tr>
@@ -196,9 +196,9 @@
     <tr>
         <td>江苏</td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jiangsu/unicom.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jiangsu/mobile.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jiangsu/telecom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/jiangsu/telecom.txt">🛰️组播</a></td>
         <td>2024.06.27</td>
@@ -206,9 +206,9 @@
     <tr>
         <td>江西</td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jiangxi/unicom.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/unicom.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jiangxi/mobile.txt">🔗单播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/mobile.txt">🛰️组播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jiangxi/telecom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/jiangxi/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
@@ -218,7 +218,7 @@
         <td><a href="https://chinaiptv.pages.dev/Unicast/jilin/unicom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/unicom.txt">🛰️组播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jilin/mobile.txt">🔗暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/mobile.txt">🛰️暂无</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/jilin/telecom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/jilin/telecom.txt">🛰️组播</a></td>
         <td>2025.03.01</td>
@@ -315,11 +315,11 @@
     </tr>
     <tr>
         <td>天津</td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/tianjin/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/tianjin/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/tianjin/telecom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/tianjin/telecom.txt">🛰️组播</a></td>
         <td>2024.04.02</td>
     </tr>
@@ -329,7 +329,7 @@
         <td><a href="https://chinaiptv.pages.dev/Multicast/xinjiang/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/xinjiang/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/xinjiang/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/xinjiang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xinjiang/telecom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/xinjiang/telecom.txt">🛰️组播</a></td>
         <td>2020.02.27</td>
     </tr>
@@ -339,17 +339,17 @@
         <td><a href="https://chinaiptv.pages.dev/Multicast/xizang/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/xizang/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/xizang/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/xizang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/xizang/telecom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/xizang/telecom.txt">🛰️组播</a></td>
         <td>2020.05.10</td>
     </tr>
     <tr>
         <td>云南</td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/unicom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/yunnan/unicom.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/mobile.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/mobile.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/yunnan/mobile.txt">🛰️组播</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/yunnan/telecom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/yunnan/telecom.txt">🛰️组播</a></td>
         <td>2024.02.19</td>
     </tr>
@@ -359,7 +359,7 @@
         <td><a href="https://chinaiptv.pages.dev/Multicast/zhejiang/unicom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/zhejiang/mobile.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/zhejiang/mobile.txt">🌐暂无</a></td>
-        <td><a href="https://chinaiptv.pages.dev/Unicast/zhejiang/telecom.txt">🔗单播</a></td>
+        <td><a href="https://chinaiptv.pages.dev/Unicast/zhejiang/telecom.txt">🌐暂无</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/zhejiang/telecom.txt">🛰️组播</a></td>
         <td>2025.02.27</td>
     </tr>
