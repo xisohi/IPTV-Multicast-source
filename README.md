@@ -311,7 +311,7 @@
         <td><a href="https://chinaiptv.pages.dev/Multicast/sichuan/mobile.txt">🛰️组播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Unicast/sichuan/telecom.txt">🔗单播</a></td>
         <td><a href="https://chinaiptv.pages.dev/Multicast/sichuan/telecom.txt">🛰️组播</a></td>
-        <td>2024.03.29</td>
+        <td>2025.05.29</td>
     </tr>
     <tr>
         <td>天津</td>
