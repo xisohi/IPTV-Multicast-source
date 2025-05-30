@@ -19,7 +19,6 @@ CCTV14,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cc
 CCTV15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
 CCTV16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
-
 CGTN,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
 CGTN西语,
 CGTN法语,
@@ -31,7 +30,6 @@ CGTN阿语,
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
 兵团卫视,http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8
 重庆卫视,http://120.210.193.151:8006/120000001002/XMTchongqingwshd/index.m3u8
-大湾区卫视,
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
 东南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
 甘肃卫视,http://120.210.193.151:8006/120000001002/XMTgswshd/index.m3u8
