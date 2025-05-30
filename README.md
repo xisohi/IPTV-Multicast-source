@@ -46,9 +46,9 @@
   <thead>
     <tr>
       <th>地区</th>
-      <th colspan="2"><img src="https://github.com/user-attachments/assets/a7e898bb-5e64-48dd-b690-69a28eaed07d" alt="中国联通" width="100"></th>
-      <th colspan="2"><img src="https://github.com/user-attachments/assets/e8039251-a2f9-4110-ae85-c4efb6016911" alt="中国联通" width="100"></th>
-      <th colspan="2"><img src="https://github.com/user-attachments/assets/8341f968-3ecc-4c28-b1b9-268da0800129" alt="中国联通" width="100"></th>
+      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/unicom.png" alt="中国联通" width="100"></th>
+      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/mobile.png" alt="中国联通" width="100"></th>
+      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/telecom.png" alt="中国联通" width="100"></th>
       <th>🆕更新时间</th>
     </tr>
   </thead>
