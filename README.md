@@ -47,8 +47,8 @@
     <tr>
       <th>地区</th>
       <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/unicom.png" alt="中国联通" width="100"></th>
-      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/mobile.png" alt="中国联通" width="100"></th>
-      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/telecom.png" alt="中国联通" width="100"></th>
+      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/mobile.png" alt="中国移动" width="100"></th>
+      <th colspan="2"><img src="https://chinaiptv.pages.dev/logo/telecom.png" alt="中国电信" width="100"></th>
       <th>🆕更新时间</th>
     </tr>
   </thead>
