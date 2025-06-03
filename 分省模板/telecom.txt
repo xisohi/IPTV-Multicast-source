@@ -60,7 +60,6 @@ CGTN阿语,
 浙江卫视,
 
 其它,#genre#
-厦门卫视,
 CETV1,
 CETV2,
 CETV4,
