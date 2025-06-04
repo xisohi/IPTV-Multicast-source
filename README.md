@@ -39,15 +39,15 @@
     </tr>
     <tr>
         <td><a href="https://potplayer.org/">PotPlayer</a></td>
-        <td><a href="https://gitee.com/lizongying/my-tv/releases">MY-TV</a></td>
-        <td><a href="https://gitee.com/lizongying/my-tv/releases">MY-TV</a></td>
+        <td><a href="https://github.com/o0HalfLife0o/TVBoxOSC/releases">TVBOX</a></td>
+        <td><a href="https://github.com/o0HalfLife0o/TVBoxOSC/releases">TVBOX</a></td>
         <td><a href="https://apps.apple.com/cn/app/aptv/id1630403500">APTV</a></td>
         <td><a href="https://apps.apple.com/cn/app/aptv/id1630403500">APTV</a></td>
     </tr>
     <tr>
         <td><a href="https://potplayer.org/"></a></td>
         <td><a href="https://github.com/o0HalfLife0o/TVBoxOSC/releases">TVBOX</a></td>
-        <td><a href="https://github.com/o0HalfLife0o/TVBoxOSC/releases">TVBOX</a></td>
+        <td><a href="https://tivimates.com/download-apk-tivimate-iptv-player/">Tivimate</a></td>
         <td><a href="https://apps.apple.com/cn/app/aptv/id1630403500"></a></td>
         <td><a href="https://apps.apple.com/cn/app/aptv/id1630403500"></a></td>
     </tr>
